@@ -8,10 +8,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianotribeiro&hide=true)
 
-
 </div>
 
 [![Adriano WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianotribeiro)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projetos
+
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianotribeiro&repo=hoerlle-architecture)](https://github.com/adrianotribeiro/hoerlle-architecture)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianotribeiro&repo=hip_frontend)]([https://github.com/adrianotribeiro/hoerlle-architecture](https://github.com/adrianotribeiro/hip_frontend))
+  
+</div>
 
 ## Tecnologias usadas diariamente
 
@@ -25,6 +34,10 @@
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="styledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
+
+## Contribuições
+
+[![Adriano github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianotribeiro&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Outros contatos
 
