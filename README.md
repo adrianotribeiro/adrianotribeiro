@@ -35,10 +35,6 @@
   <img align="center" alt="styledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 
-## Contribuições
-
-[![Adriano github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianotribeiro&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Outros contatos
 
  [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551985715014) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adrianotribeiro)
