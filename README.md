@@ -12,15 +12,6 @@
 
 [![Adriano WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianotribeiro)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos
-
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianotribeiro&repo=hoerlle-architecture)](https://github.com/adrianotribeiro/hoerlle-architecture)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianotribeiro&repo=hip_frontend)]([https://github.com/adrianotribeiro/hoerlle-architecture](https://github.com/adrianotribeiro/hip_frontend))
-  
-</div>
 
 ## Tecnologias usadas diariamente
 
