@@ -26,7 +26,7 @@ Sou apaixonado por traduzir wireframes e designs do Figma em experiências fluid
 
 | Projeto | Descrição | Tech Stack | Link |
 |---|---|---|---|
-| **DRH SaaS** | Sistema de gestão de RH com dashboard complexo, controle de ponto e relatórios. Foco em componentização e estado global. | Angular, TypeScript, Redux | [🔗 Ver Projeto](#) |
+| **DRH** | Sistema de gestão de RH com dashboard complexo, controle de ponto e relatórios. Foco em componentização e estado global. | Angular, TypeScript, Redux | [🔗 Ver Projeto](#) |
 | **The Utility Hub** | Plataforma internacional de gestão de serviços residenciais. Estruturado para SEO e performance. | Next.js, TypeScript, Chakra UI | [🔗 Ver Projeto](#) |
 | **Klik Vapes** | Landing page de alta conversão para e-commerce com foco extremo em Core Web Vitals e animações. | Next.js, TypeScript, Hero UI | [🔗 Ver Projeto](#) |
 
